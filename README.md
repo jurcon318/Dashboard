@@ -1,6 +1,6 @@
 # 🚀 Project Dashboard
 
-A central hub for my mini-applications and utilities. This dashboard tracks the development, features, and live status of various projects built along the way.
+A central hub for JURC's mini-applications and utilities. This dashboard tracks the development, features, and live status of various projects built along the way.
 
 ---
 
