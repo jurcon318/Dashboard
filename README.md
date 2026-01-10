@@ -8,9 +8,9 @@ A central hub for JURC's mini-applications and utilities. This dashboard tracks 
 
 | Icon | Project Name | Description | Source Code | Live Demo |
 | :---: | :--- | :--- | :---: | :---: |
-| 🚂 | **TRA Schedule** | A utility for checking Taiwan Railway Administration (TRA) train schedules. | [📂 Repo](https://github.com/cftang0827/tra-schedule) | <a href="https://cftang0827.github.io/tra-schedule/" target="_blank">🚀 View App</a> |
-| 🎨 | **Colour Block** | A logic-based color identification challenge and interactive game. | [📂 Repo](https://github.com/mhmchung/Colour-Block-Challenge) | <a href="https://mhmchung.github.io/Colour-Block-Challenge/" target="_blank">🚀 Play Now</a> |
-| 🎓 | **GRE Prep** | A study tool designed to assist with GRE exam vocabulary and preparation. | [📂 Repo](https://github.com/mhmchung/GRE-Prep) | <a href="https://mhmchung.github.io/GRE-Prep/" target="_blank">🚀 Start Study</a> |
+| 🚂 | **TRA Schedule** | A utility for checking Taiwan Railway Administration (TRA) train schedules. | [📂 Repo](https://github.com/cftang0827/tra-schedule) | [🚀 View App](https://cftang0827.github.io/tra-schedule/) |
+| 🎨 | **Colour Block** | A logic-based color identification challenge and interactive game. | [📂 Repo](https://github.com/mhmchung/Colour-Block-Challenge) | [🚀 Play Now](https://mhmchung.github.io/Colour-Block-Challenge/) |
+| 🎓 | **GRE Prep** | A study tool designed to assist with GRE exam vocabulary and preparation. | [📂 Repo](https://github.com/mhmchung/GRE-Prep) | [🚀 Start Study](https://mhmchung.github.io/GRE-Prep/) |
 
 ---
 
