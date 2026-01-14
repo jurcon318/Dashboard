@@ -5,9 +5,9 @@ import ProjectCard from './components/ProjectCard'
 
 function App() {
   const [projects] = useState([
-    { id: 1, name: "TRA Schedule", icon: "🚂", url: "https://github.com/..." },
-    { id: 2, name: "Colour Block", icon: "🎨", url: "https://github.com/..." },
-    { id: 3, name: "GRE Prep", icon: "🎓", url: "https://github.com/..." }
+    { id: 1, name: "TRA Schedule", icon: "🚂", url: "https://cftang0827.github.io/tra-schedule/" },
+    { id: 2, name: "Colour Block", icon: "🎨", url: "https://mhmchung.github.io/Colour-Block-Challenge/" },
+    { id: 3, name: "GRE Prep", icon: "🎓", url: "https://mhmchung.github.io/GRE-Prep/" }
   ])
 
   return (
